@@ -1,4 +1,7 @@
 /*This script controlls the enemy so it always follows the player*/
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
 public class EnemyFollow : MonoBehaviour
 {
