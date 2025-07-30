@@ -1,4 +1,8 @@
 /*Here the calculations for the player attacking with the short range attack and the projectile are made*/
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerAttack : MonoBehaviour
 {
