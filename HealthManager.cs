@@ -1,4 +1,8 @@
 /*Here are included 2 simple functions for the player taking damage and healing that are very important for other scripts*/
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
 
 public class HealthManager : MonoBehaviour
 {
